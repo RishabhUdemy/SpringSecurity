@@ -1,0 +1,40 @@
+14-Sep-2026 20:08:24.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.59
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 13 2026 16:59:10 UTC
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.59.0
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+14-Sep-2026 20:08:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+8-LTS-224
+14-Sep-2026 20:08:24.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Sep-2026 20:08:24.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory
+14-Sep-2026 20:08:24.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Avengers\Downloads\apache-tomcat-10.1.59
+14-Sep-2026 20:08:24.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Sep-2026 20:08:24.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Sep-2026 20:08:24.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Sep-2026 20:08:24.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Sep-2026 20:08:24.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Avengers\Downloads\apache-tomcat-10.1.59
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory\temp
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory\conf\logging.properties
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.2\lib\idea_rt.jar=50234
+14-Sep-2026 20:08:24.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+14-Sep-2026 20:08:24.810 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.15] using APR version [1.7.6].
+14-Sep-2026 20:08:24.816 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.7 9 Jun 2026]
+14-Sep-2026 20:08:25.038 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Sep-2026 20:08:25.062 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [421] milliseconds
+14-Sep-2026 20:08:25.121 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Sep-2026 20:08:25.121 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.59]
+14-Sep-2026 20:08:25.134 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory\conf\Catalina\localhost\Traditional-Old-In-Memory.xml]
+14-Sep-2026 20:08:26.251 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2026 20:08:26.267 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+14-Sep-2026 20:08:26.291 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/Traditional-Old-In-Memory] startup failed due to previous errors
+14-Sep-2026 20:08:26.297 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\GIT_REPO_Pratice\SpringSecurity\Traditional-Old-In-Memory\conf\Catalina\localhost\Traditional-Old-In-Memory.xml] has finished in [1,163] ms
+14-Sep-2026 20:08:26.300 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Sep-2026 20:08:26.331 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1268] milliseconds
+14-Sep-2026 20:10:14.085 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Sep-2026 20:10:14.211 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Sep-2026 20:10:14.212 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Sep-2026 20:10:14.215 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,6 @@
+com\tradition\springsecurity\web\LoanController.class
+com\tradition\springsecurity\config\RootConfig.class
+com\tradition\springsecurity\service\LoanService.class
+com\tradition\springsecurity\security\SecurityConfig.class
+com\tradition\springsecurity\web\WebConfig.class
+com\tradition\springsecurity\web\LoginController.class
